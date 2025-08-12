@@ -1,4 +1,31 @@
 body {
-background-color: red;
+background-color: lime;
+
+}
+
+* {
+font-size: 50px;
+}
+
+
+.Spaghet{
+padding: 20px;
+color: red;
+
+
+}
+
+.Fish{
+padding: 20px;
+color:aqua;
+
+
+}
+
+
+.Jollof{
+padding: 20px;
+color: purple;
+
 
 }
